@@ -20,9 +20,5 @@
     }
     $conn->close(); 
   ?>
-  <form method="post">
-    <label>Delete:</label><input type="text" name="delete"><br><br>
-    <input type="submit" value="submit1">
-  </form>
 </body>
 </html> 
